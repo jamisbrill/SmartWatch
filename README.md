@@ -10,7 +10,7 @@ A program and website to analyse and collect data from a database to then manipu
 Website Features
 - Database Connectivity
 - Graphs / Charts
-- Patient Locator System 
+- Patient Locator System (using Google Maps API) 
 - Alternative Chart Options
 
 Andriod App Features
