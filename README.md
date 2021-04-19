@@ -1,5 +1,6 @@
 # SmartWatch Analyser 
 A program and website to analyse and collect data from a database to then manipulate that data 
+
  Java Program Features 
 - Jfreechart (Java graphs) using data from database 
 - SQL Database 
