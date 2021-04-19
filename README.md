@@ -10,3 +10,6 @@ Website Features
 - Graphs / Charts
 - Patient Locator System 
 - Alternative Chart Options
+
+Andriod App Features
+- SQL database view 
